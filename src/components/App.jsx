@@ -1,6 +1,7 @@
 import React from "react";
 import Form from "./Form";
 
+//change this var to true to see login form
 var userIsRegistered = false;
 
 function App() {
